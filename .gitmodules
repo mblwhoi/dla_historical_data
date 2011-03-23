@@ -67,3 +67,6 @@
 [submodule "sites/all/themes/custom/dla"]
 	path = sites/all/themes/custom/dla
 	url = git://github.com/adorsk-whoi/dla_theme.git
+[submodule "sites/all/modules/contrib/views"]
+	path = sites/all/modules/contrib/views
+	url = http://git.drupal.org/project/views.git
