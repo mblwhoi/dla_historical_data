@@ -13,9 +13,6 @@
 [submodule "sites/all/modules/contrib/ctools"]
 	path = sites/all/modules/contrib/ctools
 	url = http://git.drupal.org/project/ctools.git
-[submodule "sites/all/modules/contrib/views"]
-	path = sites/all/modules/contrib/views
-	url = http://git.drupal.org/project/views.git
 [submodule "sites/all/modules/contrib/wysiwyg"]
 	path = sites/all/modules/contrib/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
