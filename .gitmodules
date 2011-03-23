@@ -1,3 +1,72 @@
 [submodule "drupal_core"]
 	path = drupal_root
 	url = git://github.com/adorsk-whoi/drupal_core_symlinks.git
+[submodule "sites/all/modules/contrib/imce_wysiwyg"]
+	path = sites/all/modules/contrib/imce_wysiwyg
+	url = http://git.drupal.org/project/imce_wysiwyg.git
+[submodule "sites/all/modules/contrib/pathauto"]
+	path = sites/all/modules/contrib/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/contrib/token"]
+	path = sites/all/modules/contrib/token
+	url = http://git.drupal.org/project/token.git
+[submodule "sites/all/modules/contrib/ctools"]
+	path = sites/all/modules/contrib/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "sites/all/modules/contrib/views"]
+	path = sites/all/modules/contrib/views
+	url = http://git.drupal.org/project/views.git
+[submodule "sites/all/modules/contrib/wysiwyg"]
+	path = sites/all/modules/contrib/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "sites/all/modules/contrib/node_import"]
+	path = sites/all/modules/contrib/node_import
+	url = http://git.drupal.org/project/node_import.git
+[submodule "sites/all/modules/contrib/devel"]
+	path = sites/all/modules/contrib/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/contrib/admin_menu"]
+	path = sites/all/modules/contrib/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/contrib/features"]
+	path = sites/all/modules/contrib/features
+	url = http://git.drupal.org/project/features.git
+[submodule "sites/all/modules/contrib/content"]
+	path = sites/all/modules/contrib/content
+	url = http://git.drupal.org/project/cck.git
+[submodule "sites/all/modules/contrib/imce"]
+	path = sites/all/modules/contrib/imce
+	url = http://git.drupal.org/project/imce.git
+[submodule "sites/all/modules/contrib/strongarm"]
+	path = sites/all/modules/contrib/strongarm
+	url = http://git.drupal.org/project/strongarm.git
+[submodule "sites/all/modules/contrib/views_bulk_operations"]
+	path = sites/all/modules/contrib/views_bulk_operations
+	url = http://git.drupal.org/project/views_bulk_operations.git
+[submodule "sites/all/modules/contrib/spamspan"]
+	path = sites/all/modules/contrib/spamspan
+	url = http://git.drupal.org/project/spamspan.git
+[submodule "sites/all/modules/contrib/computed_field"]
+	path = sites/all/modules/contrib/computed_field
+	url = http://git.drupal.org/project/computed_field.git
+[submodule "sites/all/modules/contrib/imce_mkdir"]
+	path = sites/all/modules/contrib/imce_mkdir
+	url = http://git.drupal.org/project/imce_mkdir.git
+[submodule "sites/all/modules/contrib/advanced_help"]
+	path = sites/all/modules/contrib/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
+[submodule "sites/all/modules/custom/ldap_authentication"]
+	path = sites/all/modules/custom/ldap_authentication
+	url = git://github.com/adorsk-whoi/drupal_ldap_authentication.git
+[submodule "sites/all/modules/contrib/faceted_search"]
+	path = sites/all/modules/contrib/faceted_search
+	url = http://git.drupal.org/project/faceted_search.git
+[submodule "sites/all/modules/custom/whoi_ldap_feature"]
+	path = sites/all/modules/custom/whoi_ldap_feature
+	url = git://github.com/adorsk-whoi/WHOI-LDAP-Feature.git
+[submodule "sites/all/modules/contrib/cck_facets"]
+	path = sites/all/modules/contrib/cck_facets
+	url = http://git.drupal.org/project/cck_facets.git
+[submodule "sites/all/themes/custom/dla"]
+	path = sites/all/themes/custom/dla
+	url = git://github.com/adorsk-whoi/dla_theme.git
