@@ -1,0 +1,6 @@
+; $Id$
+name = Historical Data Theme
+description = "Historical Data Theme"
+core = 6.x
+base theme = dla_theme
+stylesheets[all][] = css/historical-data-theme-style.css

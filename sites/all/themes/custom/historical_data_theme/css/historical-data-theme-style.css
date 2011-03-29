@@ -1,0 +1,7 @@
+#wrapper #container #center .right-corner .left-corner {
+  margin-left: inherit;
+}
+
+#search{
+  display: none;
+}
